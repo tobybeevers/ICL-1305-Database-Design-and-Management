@@ -15,8 +15,8 @@ Prior to the visit, the patient has to book an appointment. The receptionist wil
 
 **Associated Files**
 
-[ICL-1305 Database Design and Management - Assignment 1 Brief.docx]([ICL-1305 Database Design and Management - Assignment 1 Brief.docx](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201%20Brief.docx)
+[ICL-1305 Database Design and Management - Assignment 1 Brief.docx](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201%20Brief.docx)
 
-[ICL-1305 Database Design and Management - Assignment 1.docx] ([ICL-1305 Database Design and Management - Assignment 1.docx)](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.docx)https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.docx)
+[ICL-1305 Database Design and Management - Assignment 1.docx](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.docx)https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.docx)
 
-[ICL-1305 Database Design and Management - Assignment 1.xlsx] ([ICL-1305 Database Design and Management - Assignment 1.xlsx)](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.xlsx)https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.xlsx)
+[ICL-1305 Database Design and Management - Assignment 1.xlsx](https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.xlsx)https://github.com/tobybeevers/ICL-1305-Database-Design-and-Management-/blob/main/ICL-1305%20Database%20Design%20and%20Management%20-%20Assignment%201.xlsx)
