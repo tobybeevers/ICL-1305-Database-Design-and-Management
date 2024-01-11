@@ -1,4 +1,4 @@
-# ICL-1305-Database-Design-and-Management #
+# ICL 1305 Database Design and Management #
 This is the beginning of my journey into Python and Programming, this is a record of my Programming assignments as part of my APPLIED DATA SCIENCE DEGREE APPRENTICESHIP BSC (HONS). Feel free to take a look and use the files, more than happy to share and help people on their own journey.
 
 ### Assignment One ###
