@@ -1,5 +1,5 @@
 # ICL 1305 Database Design and Management #
-This is the beginning of my journey into Python and Programming, this is a record of my Programming assignments as part of my APPLIED DATA SCIENCE DEGREE APPRENTICESHIP BSC (HONS). Feel free to take a look and use the files, more than happy to share and help people on their own journey.
+This is the beginning of my journey into Database Design & Management, this is a record of my Programming assignments as part of my APPLIED DATA SCIENCE DEGREE APPRENTICESHIP BSC (HONS). Feel free to take a look and use the files, more than happy to share and help people on their own journey.
 
 ### Assignment One ###
 Produce design documentation Using the scenario below you are to design a database. This will include the development of conceptual data modelling covering the rules of Normalisation up to 3 rd Normal Form, an entity relationship model with logical relationships (you must list any assumptions), and a data dictionary, which includes the fundamentals.
